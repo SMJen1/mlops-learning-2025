@@ -1,0 +1,27 @@
+# Azure AI Services
+azure-ai-ml==1.15.0
+azure-identity==1.16.1
+azure-ai-textanalytics
+azure-search-documents
+azure-storage-blob
+
+# OpenAI and LLM
+openai>=1.0.0
+python-dotenv
+
+# Data Science Core
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+scikit-learn>=1.3.0
+
+# Jupyter for exercises
+jupyter
+ipykernel
+
+# MLOps Tools
+mlflow
+
+# Web frameworks (for later weeks)
+fastapi
+streamlit
